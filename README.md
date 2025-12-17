@@ -88,7 +88,7 @@ Tại đây mình chia sẻ:
 - Async & retry-safe jobs
 
 ### 🏗️ Core Laravel Skeleton
-- DDD-style structure
+- Repository, MVC, DDDD
 - Spatie Role & Permission
 - DataTable + Admin CMS
 - Ready for real business use
