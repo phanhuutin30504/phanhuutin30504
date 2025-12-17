@@ -55,20 +55,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phanhuutin30504&theme=dracula&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
-
----
-
 <!-- Footer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
