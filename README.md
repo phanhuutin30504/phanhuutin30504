@@ -1,6 +1,6 @@
 
 <!-- Banner Huyền Bí -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff8c00,100:ffd700&height=250&section=header&text=Phan%20Hữu%20Tín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff8c00,100:ffd700&height=250&section=header&text=Phan%20Hữu%20Tín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
 
 <!-- Typing Animation -->
 <p align="center">
