@@ -101,9 +101,10 @@ Tại đây mình chia sẻ:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanhuutin30504&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhuutin30504&layout=compact&theme=dracula&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phanhuutin30504&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhuutin30504&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
+
 
 ---
 
