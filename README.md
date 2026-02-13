@@ -78,23 +78,6 @@ Tại đây mình chia sẻ:
 - Git Flow & Team Collaboration
 - Performance & Scalability Awareness
 
----
-
-## 🧩 Featured Projects
-
-### 🔔 Telegram CMS Notification System
-- Laravel + Queue + Webhook
-- Send message to User / Group
-- Handle reply & interaction
-- Async & retry-safe jobs
-
-### 🏗️ Core Laravel Skeleton
-- Repository, MVC, DDDD
-- Spatie Role & Permission
-- DataTable + Admin CMS
-- Ready for real business use
-
-*(Repo được ghim trên GitHub profile)*
 
 ---
 
