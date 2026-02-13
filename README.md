@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <!-- Banner Huyền Bí -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff8c00,100:ffd700&height=250&section=header&text=Phan%20Hữu%20Tín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff8c00,100:ffd700&height=250&section=header&text=Phan%20Hữu%20Tín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> 
 <p align="center">
   <a href="https://github.com/phanhuutin30504">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=ff4500&center=true&vCenter=true&width=900&fontWeight=bold&lines=👋+Xin+chào,+mình+là+Phan+Hữu+Tín;💻+Backend+Developer+(Laravel+%7C+NodeJS);⚙️+Build+Scalable+%26+Clean+Systems;🚀+Coding+is+my+magic!" />
